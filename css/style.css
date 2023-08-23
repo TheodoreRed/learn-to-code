@@ -48,11 +48,11 @@ main {
 }
 
 /* STATES */
-a:not(.big-button):hover {
+a:not(.cta-button):hover {
     color: #ff5c0f;
 }
 
-.big-button:hover {
+.cta-button:hover {
     background-color: #ff5c0f;
 }
 
